@@ -6,6 +6,7 @@ controlled = true;
 xDest = undefined;
 yDest = undefined;
 
+
 spd_base = 3;
 spd = spd_base;
 
@@ -74,6 +75,9 @@ state.add("normal", {
 		state.change("idle");
 	}
 });
+//Im so tired please pretend this is coded well
+rooms = [rm_balcony, rm_beach, rm_birthday, rm_phones,
+	rm_forest, rm_bedroom_dream, rm_balcony_dream]
 
 state.add("idle", {
 	enter: function(){

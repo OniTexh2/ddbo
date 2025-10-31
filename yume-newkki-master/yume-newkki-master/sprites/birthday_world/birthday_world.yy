@@ -2,9 +2,9 @@
   "$GMSprite":"v2",
   "%Name":"birthday_world",
   "bboxMode":0,
-  "bbox_bottom":1499,
+  "bbox_bottom":499,
   "bbox_left":0,
-  "bbox_right":1499,
+  "bbox_right":499,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":1500,
+  "height":500,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"aaa53db2-d337-437f-bfb2-268de164597b","blendMode":0,"displayName":"default","isLocked":false,"name":"aaa53db2-d337-437f-bfb2-268de164597b","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":1500,
+  "width":500,
 }
