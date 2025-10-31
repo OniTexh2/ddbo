@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"outline_shader",
+  "name":"outline_shader",
+  "parent":{
+    "name":"Notes",
+    "path":"folders/Notes.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

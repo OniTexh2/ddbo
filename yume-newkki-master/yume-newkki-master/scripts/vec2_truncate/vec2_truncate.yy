@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"vec2_truncate",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"vec2_truncate",
+  "parent":{
+    "name":"vec2",
+    "path":"folders/Scripts/vec2.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

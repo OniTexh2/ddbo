@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ds_map_get",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ds_map_get",
+  "parent":{
+    "name":"func",
+    "path":"folders/Scripts/func.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

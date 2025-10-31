@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"effect_item_functions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"effect_item_functions",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

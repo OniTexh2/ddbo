@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"vec2_dir",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"vec2_dir",
+  "parent":{
+    "name":"vec2",
+    "path":"folders/Scripts/vec2.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

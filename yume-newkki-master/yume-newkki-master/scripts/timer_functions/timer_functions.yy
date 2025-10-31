@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"timer_functions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"timer_functions",
+  "parent":{
+    "name":"func",
+    "path":"folders/Scripts/func.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

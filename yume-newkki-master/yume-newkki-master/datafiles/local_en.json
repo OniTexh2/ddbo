@@ -1,0 +1,77 @@
+{
+    "language": "English",
+    "locale": "en-US",
+    "text": {
+		"gui": {
+			"on": "On",
+			"off": "Off",
+			"yes": "Yes",
+			"no": "No",
+			"menu": {
+				"new_game_name" : "New Game",
+				"new_game" : {
+					"text" : "Create new game",
+					"popup_confirm" : "Override game?",
+				},
+				"load_game_name" : "Load Game",
+				"load_game" : {
+					"text" : "Load game",
+					"load" : "Load",
+					"delete" : "Delete",
+					"popup_confirm" : "Delete game?",
+				},
+				"quit" : "Quit",
+				"effects" : "Effects",
+				"settings_name" : "Settings",
+				"settings": {
+					"resolution": "Resolution",
+					"resolution.description": "The display resolution",
+					"window_mode": "Window mode",
+					"window_mode.description": "Cycle between window modes",
+					"window_mode.windowed": "Windowed",
+					"window_mode.fullscreen": "Fullscreen",
+					"window_mode.borderless": "Borderless windowed",
+					"keep_aspect_ratio": "Keep aspect ratio",
+					"keep_aspect_ratio.description": "Keep the games aspect ratio",
+					"volume": "Volume",
+					"language": "Language",
+					"language.description": "Change the language",
+				}
+			}
+		},
+        "effects": {
+            "stick": {
+                "name": "Stick",
+                "description": "Very stick like"
+            },
+			"ancient": {
+                "name": "Ancient",
+                "description": "Ancient being that once held immense power"
+            },
+			"meemo": {
+                "name": "Meemo",
+                "description": "Guh?"
+            },
+			"nose": {
+                "name": "Nose",
+                "description": "A big sniffer"
+            },
+			"scrimblo": {
+                "name": "Scrimblo",
+                "description": "????"
+            },
+			"penguin": {
+                "name": "Penguin",
+                "description": "Known to slide around on it's belly"
+            },
+			"tv": {
+                "name": "TV",
+                "description": "Rarely anything worth watching"
+            },
+			"duende": {
+                "name": "El Duende",
+                "description": "Interfirencia"
+            }
+        }
+    }
+}

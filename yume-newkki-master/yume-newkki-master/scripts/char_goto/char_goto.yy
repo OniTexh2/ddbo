@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"char_goto",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"char_goto",
+  "parent":{
+    "name":"characters",
+    "path":"folders/Scripts/characters.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

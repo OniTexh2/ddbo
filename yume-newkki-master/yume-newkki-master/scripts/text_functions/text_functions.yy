@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"text_functions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"text_functions",
+  "parent":{
+    "name":"text_box",
+    "path":"folders/Scripts/text_box.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
