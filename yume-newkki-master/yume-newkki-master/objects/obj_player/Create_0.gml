@@ -76,13 +76,13 @@ state.add("normal", {
 	}
 });
 //Im so tired please pretend this is coded well
-rooms = [rm_balcony, rm_beach, rm_birthday, rm_phones,
+rooms = [rm_beach, rm_birthday, rm_phones,
 	rm_forest, rm_bedroom_dream, rm_balcony_dream]
 
 state.add("idle", {
 	enter: function(){
 		animate = false;
-		subimg = 1;
+		subimg = 0;
 	},
 	step: function(){		
 		if(hspd != 0 || vspd != 0){
@@ -96,7 +96,6 @@ state.add("idle", {
 state.add("walking", {
 	enter: function(){
 		animate = true;
-		subimg = 0;
 	},
 	step: function(){
 		choose_direction();
@@ -117,7 +116,6 @@ state.add("walking", {
 state.add("wake", {
 	enter: function(){
 		animate = true;
-		subimg = 0;
 		ping_pong = false;
 		sprite_index = spr_player_wake;
 	},
@@ -141,7 +139,6 @@ state.add("wake", {
 state.add("shake", {
 	enter: function(){
 		animate = true;
-		subimg = 0;
 		sprite_index = spr_player_shake;
 		audio_play_sound(snd_nope,0,0);
 		controlled = false;

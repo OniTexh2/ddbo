@@ -7,7 +7,6 @@ transition_spd = game_speed * 0.5;
 
 script = function(){
 	image_index = 1;	
-	audio_play_sound(snd_open_door,0,0,,,0.8);
 	obj_player.state.change(obj_player.idle_state);
 	obj_player.controlled = false;
 	

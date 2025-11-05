@@ -1,2 +1,3 @@
-array_shuffle(rooms)
-room_goto(rooms[0])
+randomize()
+var destination = array_shuffle(rooms)
+room_goto(destination[0])

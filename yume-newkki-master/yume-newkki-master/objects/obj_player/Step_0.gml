@@ -1,9 +1,14 @@
 /// @description
+#macro print show_debug_message
 if(can_move){
 	if(animate){
-		subimg += sprite_get_speed(sprite_index);
-		image_index = subimg;
+		image_speed = 1;
 	}
+    else
+    {
+    	image_speed = 0
+        image_index = 0
+    }
 	
 	//lets user move and interact the player
 	if(controlled){
