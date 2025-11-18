@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"music_gorillaesque",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":32.0,
+  "exportDir":"",
+  "name":"music_gorillaesque",
+  "parent":{
+    "name":"music",
+    "path":"folders/Sounds/music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"music_gorillaesque.wav",
+  "volume":1.0,
+}

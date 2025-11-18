@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"stanncam_functions_old",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"stanncam_functions_old",
+  "parent":{
+    "name":"Stanncam",
+    "path":"folders/Extensions/Stanncam.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

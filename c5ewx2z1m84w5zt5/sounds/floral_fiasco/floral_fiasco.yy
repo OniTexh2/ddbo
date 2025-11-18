@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"floral_fiasco",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":72.0,
+  "exportDir":"",
+  "name":"floral_fiasco",
+  "parent":{
+    "name":"music",
+    "path":"folders/Sounds/music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"floral_fiasco.wav",
+  "volume":1.0,
+}

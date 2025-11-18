@@ -1,2 +1,0 @@
-/// @description
-init_reflections();

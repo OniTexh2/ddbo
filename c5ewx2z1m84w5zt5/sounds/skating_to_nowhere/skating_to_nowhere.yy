@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"skating_to_nowhere",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":76.5,
+  "exportDir":"",
+  "name":"skating_to_nowhere",
+  "parent":{
+    "name":"music",
+    "path":"folders/Sounds/music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"skating_to_nowhere.wav",
+  "volume":1.0,
+}
