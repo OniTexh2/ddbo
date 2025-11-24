@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_text_box_formating",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_text_box_formating",
+  "parent":{
+    "name":"textbox",
+    "path":"folders/Objects/UI/textbox.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

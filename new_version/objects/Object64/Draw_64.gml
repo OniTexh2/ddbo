@@ -1,0 +1,1 @@
+draw_sprite(sassy_normal, 0, 100, 100)

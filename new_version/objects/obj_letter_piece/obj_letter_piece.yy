@@ -11,7 +11,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"credits",
-    "path":"folders/Objects/credits.yy",
+    "path":"folders/Objects/UI/credits.yy",
   },
   "parentObjectId":null,
   "persistent":false,
