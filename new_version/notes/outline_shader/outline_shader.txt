@@ -12,7 +12,7 @@ Outline Shader
 
 
 		Arguments:
-		----------
+		-------------
 		(Only two are required)
 	
 		thickness: The thickness of the outline, in pixels.
