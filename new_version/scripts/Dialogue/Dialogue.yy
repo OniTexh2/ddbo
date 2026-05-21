@@ -6,7 +6,7 @@
   "name":"Dialogue",
   "parent":{
     "name":"Scripts",
-    "path":"folders/Blue's Dialogue System/Scripts.yy",
+    "path":"folders/Objects/UI/Blue's Dialogue System/Scripts.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

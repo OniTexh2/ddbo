@@ -12,7 +12,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
-    "path":"folders/Blue's Dialogue System/Objects.yy",
+    "path":"folders/Objects/UI/Blue's Dialogue System/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

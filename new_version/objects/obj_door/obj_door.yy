@@ -8,8 +8,8 @@
   "name":"obj_door",
   "overriddenProperties":[],
   "parent":{
-    "name":"tools",
-    "path":"folders/tools.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":{
     "name":"obj_interactable",

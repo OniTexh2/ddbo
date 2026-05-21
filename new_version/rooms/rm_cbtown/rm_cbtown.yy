@@ -7,7 +7,6 @@
   "inheritLayers":false,
   "instanceCreationOrder":[
     {"name":"inst_6DEC2D38","path":"rooms/rm_cbtown/rm_cbtown.yy",},
-    {"name":"inst_A7B5C21","path":"rooms/rm_cbtown/rm_cbtown.yy",},
     {"name":"inst_3CD1E088","path":"rooms/rm_cbtown/rm_cbtown.yy",},
     {"name":"inst_6401D49","path":"rooms/rm_cbtown/rm_cbtown.yy",},
     {"name":"inst_4B2017FF","path":"rooms/rm_cbtown/rm_cbtown.yy",},
@@ -153,6 +152,7 @@
     {"name":"inst_104C0ECB","path":"rooms/rm_cbtown/rm_cbtown.yy",},
     {"name":"inst_44EF38CF","path":"rooms/rm_cbtown/rm_cbtown.yy",},
     {"name":"inst_4C409E9F","path":"rooms/rm_cbtown/rm_cbtown.yy",},
+    {"name":"inst_2C7B0271","path":"rooms/rm_cbtown/rm_cbtown.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -305,11 +305,7 @@
       ],"layers":[],"name":"walls","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":false,},
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":16,"gridY":16,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_6DEC2D38","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6DEC2D38","objectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":288.0,"y":976.0,},
-        {"$GMRInstance":"v4","%Name":"inst_A7B5C21","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_A7B5C21","objectId":{"name":"obj_door_blue","path":"objects/obj_door_blue/obj_door_blue.yy",},"properties":[
-            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},"propertyId":{"name":"room_index","path":"objects/obj_door/obj_door.yy",},"resource":{"name":"rm_nexus","path":"rooms/rm_nexus/rm_nexus.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_nexus",},
-            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},"propertyId":{"name":"spawn_target","path":"objects/obj_door/obj_door.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"inst_5CA3E288",},
-            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},"propertyId":{"name":"offset_y","path":"objects/obj_door/obj_door.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"32",},
-          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":288.0,"y":944.0,},
+        {"$GMRInstance":"v4","%Name":"inst_2C7B0271","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2C7B0271","objectId":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":256.0,"y":496.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":false,"effectType":"_filter_parallax","gridX":16,"gridY":16,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[
         {"name":"g_ParallaxDirection","type":0,"value":"0",},

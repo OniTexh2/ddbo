@@ -2,6 +2,17 @@
 game_active = false;
 global.t = 0;
 global.save_slot = 0;
+global.room_index = [
+	rm_bdworld,
+	rm_beach,
+	rm_cbtown,
+	rm_dhsticks,
+	rm_rdworld,
+	rm_snowdread
+]
+
+
+
 
 //loads settings or initializes the default ones
 settings_load();

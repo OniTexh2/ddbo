@@ -1,1 +1,1 @@
-instance_create_depth(x, y, -1, obj_textbox)
+//instance_create_depth(x, y, -1, obj_textbox)

@@ -27,7 +27,7 @@
   "origin":0,
   "parent":{
     "name":"Sprites",
-    "path":"folders/Blue's Dialogue System/Sprites.yy",
+    "path":"folders/Objects/UI/Blue's Dialogue System/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -120,7 +120,7 @@
   "name":"fnt_velvet_font",
   "parent":{
     "name":"Fonts",
-    "path":"folders/Blue's Dialogue System/Fonts.yy",
+    "path":"folders/Objects/UI/Blue's Dialogue System/Fonts.yy",
   },
   "pointRounding":0,
   "ranges":[

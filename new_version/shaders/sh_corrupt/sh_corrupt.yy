@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"sh_corrupt",
+  "name":"sh_corrupt",
+  "parent":{
+    "name":"misc_cache",
+    "path":"folders/Objects/misc_cache.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

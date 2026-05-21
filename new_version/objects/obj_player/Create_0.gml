@@ -6,6 +6,7 @@ controlled = true;
 xDest = undefined;
 yDest = undefined;
 
+rooms = []
 spd_base = 1;
 spd_run = 3;
 spd = spd_base;

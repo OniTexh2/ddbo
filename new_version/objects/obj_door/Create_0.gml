@@ -3,6 +3,12 @@
 // Inherit the parent event
 event_inherited();
 
+var _index = irandom_range(1, array_length(global.room_index) - 1);
+
+room_index = global.room_index[_index];
+array_delete(global.room_index, _index, 1);
+
+
 transition_spd = room_speed * 0.1;
 
 script = function(){
@@ -12,10 +18,12 @@ script = function(){
 	
 	transition(room_index,function(){
 		//moves player to target
+		/*
 		if(spawn_target != -1){
 			obj_player.x = spawn_target.x + offset_x;	
 			obj_player.y = spawn_target.y + offset_y;
 		}
+		*/
 		
 		//decides which direction player is facing when spawned
 		switch (player_direction) {
