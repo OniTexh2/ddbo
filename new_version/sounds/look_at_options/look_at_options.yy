@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"look_at_options",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":1.6075964,
+  "exportDir":"",
+  "name":"look_at_options",
+  "parent":{
+    "name":"music 2",
+    "path":"folders/Sounds/music 2.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"look_at_options.mp3",
+  "volume":1.0,
+}

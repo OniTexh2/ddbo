@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"tidy_up_options",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":1.00678,
+  "exportDir":"",
+  "name":"tidy_up_options",
+  "parent":{
+    "name":"music 2",
+    "path":"folders/Sounds/music 2.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"tidy_up_options.mp3",
+  "volume":1.0,
+}

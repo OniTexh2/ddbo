@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"HorrorDEMO2",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":30.0,
+  "exportDir":"",
+  "name":"HorrorDEMO2",
+  "parent":{
+    "name":"music 2",
+    "path":"folders/Sounds/music 2.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"HorrorDEMO2.wav",
+  "volume":1.0,
+}

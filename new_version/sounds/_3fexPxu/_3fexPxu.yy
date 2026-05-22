@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"_3fexPxu",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":84.68898,
+  "exportDir":"",
+  "name":"_3fexPxu",
+  "parent":{
+    "name":"music 2",
+    "path":"folders/Sounds/music 2.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"_3fexPxu.mp3",
+  "volume":1.0,
+}

@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"ALIEN_DEMO_4",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":94.69388,
+  "exportDir":"",
+  "name":"ALIEN_DEMO_4",
+  "parent":{
+    "name":"music 2",
+    "path":"folders/Sounds/music 2.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"ALIEN_DEMO_4.mp3",
+  "volume":1.0,
+}

@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"cascade_sexy_sexy_sample",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":2.15,
+  "exportDir":"",
+  "name":"cascade_sexy_sexy_sample",
+  "parent":{
+    "name":"music 2",
+    "path":"folders/Sounds/music 2.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"cascade_sexy_sexy_sample.wav",
+  "volume":1.0,
+}

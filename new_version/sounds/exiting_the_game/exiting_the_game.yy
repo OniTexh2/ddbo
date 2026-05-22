@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"exiting_the_game",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":1.14,
+  "exportDir":"",
+  "name":"exiting_the_game",
+  "parent":{
+    "name":"music 2",
+    "path":"folders/Sounds/music 2.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"exiting_the_game.wav",
+  "volume":1.0,
+}

@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Swazz_Loop_1",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":81.230774,
+  "exportDir":"",
+  "name":"Swazz_Loop_1",
+  "parent":{
+    "name":"music 2",
+    "path":"folders/Sounds/music 2.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Swazz_Loop_1.wav",
+  "volume":1.0,
+}
